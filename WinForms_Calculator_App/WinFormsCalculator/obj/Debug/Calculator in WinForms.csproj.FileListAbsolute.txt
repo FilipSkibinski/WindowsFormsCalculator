@@ -1,0 +1,13 @@
+C:\Users\cp24\Desktop\All_C#_Projects\Okienkowy C#\Kurs Windows Forms 1\Kurs Windows Forms 1\bin\Debug\Kurs Windows Forms 1.exe.config
+C:\Users\cp24\Desktop\All_C#_Projects\Okienkowy C#\Kurs Windows Forms 1\Kurs Windows Forms 1\bin\Debug\Kurs Windows Forms 1.exe
+C:\Users\cp24\Desktop\All_C#_Projects\Okienkowy C#\Kurs Windows Forms 1\Kurs Windows Forms 1\bin\Debug\Kurs Windows Forms 1.pdb
+C:\Users\cp24\Desktop\All_C#_Projects\Okienkowy C#\Kurs Windows Forms 1\Kurs Windows Forms 1\bin\Debug\aa\Kurs Windows Forms 1.resources.dll
+C:\Users\cp24\Desktop\All_C#_Projects\Okienkowy C#\Kurs Windows Forms 1\Kurs Windows Forms 1\obj\Debug\Calculator in WinForms.csprojAssemblyReference.cache
+C:\Users\cp24\Desktop\All_C#_Projects\Okienkowy C#\Kurs Windows Forms 1\Kurs Windows Forms 1\obj\Debug\Kurs_Windows_Forms_1.Basic_Calculator.resources
+C:\Users\cp24\Desktop\All_C#_Projects\Okienkowy C#\Kurs Windows Forms 1\Kurs Windows Forms 1\obj\Debug\Kurs_Windows_Forms_1.Properties.Resources.resources
+C:\Users\cp24\Desktop\All_C#_Projects\Okienkowy C#\Kurs Windows Forms 1\Kurs Windows Forms 1\obj\Debug\Kurs_Windows_Forms_1.Basic_Calculator.aa.resources
+C:\Users\cp24\Desktop\All_C#_Projects\Okienkowy C#\Kurs Windows Forms 1\Kurs Windows Forms 1\obj\Debug\Calculator in WinForms.csproj.GenerateResource.cache
+C:\Users\cp24\Desktop\All_C#_Projects\Okienkowy C#\Kurs Windows Forms 1\Kurs Windows Forms 1\obj\Debug\Calculator in WinForms.csproj.CoreCompileInputs.cache
+C:\Users\cp24\Desktop\All_C#_Projects\Okienkowy C#\Kurs Windows Forms 1\Kurs Windows Forms 1\obj\Debug\aa\Kurs Windows Forms 1.resources.dll
+C:\Users\cp24\Desktop\All_C#_Projects\Okienkowy C#\Kurs Windows Forms 1\Kurs Windows Forms 1\obj\Debug\Kurs Windows Forms 1.exe
+C:\Users\cp24\Desktop\All_C#_Projects\Okienkowy C#\Kurs Windows Forms 1\Kurs Windows Forms 1\obj\Debug\Kurs Windows Forms 1.pdb
